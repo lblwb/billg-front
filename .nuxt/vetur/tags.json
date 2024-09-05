@@ -1,0 +1,50 @@
+{
+  "LoadingBar": {
+    "description": "Auto imported from components/LoadingBar.vue"
+  },
+  "PagesBillDescBannerBlock": {
+    "description": "Auto imported from components/pages/bill/DescBannerBlock.vue"
+  },
+  "ModalsModalView": {
+    "description": "Auto imported from components/modals/ModalView.vue"
+  },
+  "PagesBillDashboardDashServiceOrderStatus": {
+    "description": "Auto imported from components/pages/bill/dashboard/DashServiceOrderStatus.vue"
+  },
+  "PagesBillDashboardBonus": {
+    "description": "Auto imported from components/pages/bill/dashboard/DashboardBonus.vue"
+  },
+  "PagesBillDashboardNews": {
+    "description": "Auto imported from components/pages/bill/dashboard/DashboardNews.vue"
+  },
+  "PagesBillDashboardServiceBuyBtn": {
+    "description": "Auto imported from components/pages/bill/dashboard/DashboardServiceBuyBtn.vue"
+  },
+  "PagesBillLayoutSidebarNavbar": {
+    "description": "Auto imported from components/pages/bill/layout/SidebarNavbar.vue"
+  },
+  "PagesBillLayoutNavbar": {
+    "description": "Auto imported from components/pages/bill/layout/navbar.vue"
+  },
+  "PagesBillDashboardOrderModalEdit": {
+    "description": "Auto imported from components/pages/bill/dashboard/order/modalEdit.vue"
+  },
+  "PagesBillServiceTariffsSliderRangeInput": {
+    "description": "Auto imported from components/pages/bill/service/tariffs/SliderRangeInput.vue"
+  },
+  "PagesBillServiceTariffsTextInput": {
+    "description": "Auto imported from components/pages/bill/service/tariffs/TextInput.vue"
+  },
+  "PagesBillDashboardPaymentPopup": {
+    "description": "Auto imported from components/pages/bill/dashboard/payment/modal/PaymentPopup.vue"
+  },
+  "PagesBillDashboardOrderInfoDnsModalCreateDnsRec": {
+    "description": "Auto imported from components/pages/bill/dashboard/order/info/dns/ModalCreateDnsRec.vue"
+  },
+  "PagesBillDashboardOrderInfoDnsModalEditDnsNs": {
+    "description": "Auto imported from components/pages/bill/dashboard/order/info/dns/ModalEditDnsNs.vue"
+  },
+  "PagesBillDashboardOrderInfoDnsModalEditDnsRec": {
+    "description": "Auto imported from components/pages/bill/dashboard/order/info/dns/ModalEditDnsRec.vue"
+  }
+}

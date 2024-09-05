@@ -1,0 +1,71 @@
+:root {
+    --blackColor: #0B4F3C;
+    --primaryBg: #3EF5C2;
+    --primaryBlackBg: #1CDEA7;
+    --primaryBlurBg: #EEFFFA;
+    --primaryColor: #02271D;
+    --primarySecond: #000000;
+    --primaryColorSecond: rgb(126, 126, 126);
+    /**/
+    --bg-color: #fff;
+    --dangerBg: #FFF3EE;
+    --dangerBlurBg: #FFF3EE;
+    --dangerColor: #FD4E4ECC;
+    --textColor: #8B8585;
+}
+
+[data-theme="dark"]  {
+    --blackColor: #0B4F3C;
+    --primaryBg: #3EF5C2;
+    --primaryBlackBg: #1CDEA7;
+    --primaryBlurBg: #033329;
+    --primaryColor: rgb(0, 255, 180);
+    --primarySecond: #031311;
+    --primaryColorSecond: rgb(14, 211, 152);
+    --bg-color: #000;
+    /**/
+    --dangerBg: #167e61;
+    --dangerBlurBg: rgba(217, 86, 86, 0.5);
+    --dangerColor: rgba(255, 181, 181, 0.87);
+    --textColor: #206e59;
+}
+
+
+html {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    word-spacing: 1px;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+    background: var(--bg-color);
+    color: var(--textColor);
+}
+
+body {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    background: var(--bg-color);
+}
+
+@supports (font-variation-settings: normal) {
+    html {
+        font-family: "Inter var", "system-ui";
+    }
+}
+
+
+/*.container {*/
+/*    margin: 0 25px;*/
+/*    width: 100%;*/
+/*}*/
+
+@media screen and (max-width: 960px) {
+    .container{
+        margin: 0;
+    }
+}
